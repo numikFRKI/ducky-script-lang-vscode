@@ -1,4 +1,5 @@
 # Ducky Script Language for VSCode
+# All credit goes to cvbenur I just wanted to have syntax highlighting for .dd extensions
 
 This extension enables syntax highlighting for the **Ducky Script** scripting language, allowing for easier and more efficient scripting.
 <br>
