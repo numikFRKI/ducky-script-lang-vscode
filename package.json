@@ -24,7 +24,8 @@
                     "duckyscript"
                 ],
                 "extensions": [
-                    ".txt"
+                    ".txt",
+                    ".dd"
                 ],
                 "configuration": "./language-configuration.json"
             }
